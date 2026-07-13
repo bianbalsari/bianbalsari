@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋 I'm Bianca Balsari
 
-<!--
-**bianbalsari/bianbalsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Geologist and PhD Candidate researching environmental dynamics, concurrently working at the intersection of Earth sciences and Artificial Intelligence. 
 
-Here are some ideas to get you started:
+My current focus is on **AI Safety and Model Evaluation**, specifically ensuring that AI systems can accurately reason about the physical world without hallucinating critical spatial data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I do
+*   **AI Model Evaluation:** Working as a Senior Geospatial Reasoning Specialist, providing Reinforcement Learning from Human Feedback (RLHF) to improve agent reasoning.
+*   **Academic Research:** PhD research on coastal erosion and environmental security. 
+
+### 🛠️ Tools & Technologies
+*   **Geospatial Stack:** QGIS, ArcGIS, GDAL, Google Earth Engine.
+*   **Data Science:** Python (Pandas, NumPy, Matplotlib), Jupyter/Colab environments.
+*   **AI/Automation:** Prompt Engineering, Model Benchmarking, Workflow Automation.
+
+### 📫 Let's connect
+*   [LinkedIn] https://www.linkedin.com/in/bianca-balsari-448792245/
